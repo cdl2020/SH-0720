@@ -16,5 +16,4 @@ hello atguigu! hello spark!
 hello atguigu! hello spark! master test
 hello atguigu! hello spark! hot_fix test
 葵花宝典就是好，谁用谁知道！
-牛逼class
 ssh 免密登录
